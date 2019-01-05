@@ -1,2 +1,2 @@
 # tensorflow
-This repository is learning how to use tensorflow. 
+This repository is my record of learning tensorflow.
